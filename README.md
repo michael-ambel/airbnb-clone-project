@@ -1,6 +1,54 @@
 # airbnb-clone-project
 Airbnb Clone Project
 ✨ UI/UX Design Planning ✨
+Color Styles:
+Primary Color: #161117
+Secondary Color: #161117, #FFA800
+gray/200: #E5E7EB
+gray/800: #1F2A37
+#FFFFFF
+#616161
+#000000
+#FFFFFF
+#E9E9E9
+#CDF2E8
+#EDEDED
+#9E9E9E
+#1C274C
+#222222
+#131212
+#FFFFFF8F
+#BEBEBE
+#747474
+#8C8C8C
+#AEAEAE
+#F0FFFB
+#5F5F5F
+#F3F0F0
+#FFFFFF8C
+#F6F6F6
+#FAC02B
+
+
+Typography:
+Font Family (Stack):
+Primary: Inter
+Fallback: sans-serif
+Font Being Rendered: Inter (100% web font rendering)
+Font Size: 11px
+Font Weight: 400 (Normal weight)
+Font Style: normal
+Font Variant: normal
+Font Kerning: auto
+Font Optical Sizing: auto
+Font Stretch: 100%
+Font Variation Settings: normal
+Font Feature Settings: "liga", "calt" (for ligatures and contextual alternates)
+Text Transform: none
+Text Decoration: none solid rgba(0, 0, 0, 0.898) (solid underline with color)
+Text Align: start (left-aligned text)
+Text Indent: 0px
+
 🎯 Design Goals
 🧭 User-Friendly Navigation: Simple and intuitive flow between pages.
 🎨 Visually Appealing: Clean, modern, and engaging design.

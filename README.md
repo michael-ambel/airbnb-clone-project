@@ -172,3 +172,36 @@ Resource Management: Works to ensure the team has all the resources and support 
 Contribution to Success:
 
 The Scrum Master ensures the team follows Agile best practices, helping the team deliver the product iteratively and continuously improving the workflow.
+
+🖥️ UI Component Patterns
+Below are the key UI components for the Airbnb Clone project, divided by the primary pages: Property Listing View, Listing Detailed View, and Simple Checkout View.
+
+1. Navbar 🧭
+Description: Global navigation for all pages.
+Key Features: Logo, search bar, links (Home, Search, Profile), user profile, and hamburger menu.
+2. Property Card 🏡 (Property Listing View)
+Description: Displays each property in a card.
+Key Features: Image, property name, price, rating, quick info, and booking button.
+3. Property Filter Sidebar 🛠️ (Property Listing View)
+Description: Allows users to filter properties.
+Key Features: Location, price range, date picker, and guest count.
+4. Listing Details 📖 (Listing Detailed View)
+Description: Detailed view of a specific property.
+Key Features: Image carousel, property overview, amenities list, availability calendar, and booking button.
+5. Booking Form 📝 (Simple Checkout View)
+Description: Finalizes the booking process.
+Key Features: Date picker, guest count, price breakdown, payment form, and confirmation button.
+6. Footer ⬇️ (Across all pages)
+Description: Global footer with links and contact info.
+Key Features: Links (About, Careers), social media icons, contact info, and copyright.
+7. Toast Notifications 🍞 (Across all pages)
+Description: Displays success or error messages.
+Key Features: Success or error messages that auto-dismiss.
+8. User Profile 👤 (User pages)
+Description: Displays and edits user profile info.
+Key Features: Profile information, booking history, and account settings.
+Why Modular UI Components Matter
+⚡ Reusability: Use components like the Navbar and Footer across pages.
+🛠️ Maintainability: Easy to update components without breaking others.
+📈 Scalability: Easily add new components as the project grows.
+👌 User Experience: Consistent components make the platform intuitive and easy to use.
